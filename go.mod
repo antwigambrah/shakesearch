@@ -1,3 +1,3 @@
-module pulley.com/shakesearch
+module github.com/antwigambrah/shakesearch
 
 go 1.15
